@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm currently diving into the world of Machine Learning, driven by a passion for all things AI. I'm eager to collaborate on any AI-related projects, so feel free to reach out if you're working on something exciting!<br><br>I'm always looking to learn more, especially in the Machine Learning space, and would greatly appreciate any guidance or support as I continue to grow in this field.<br><br>Fun fact: I won the HackAIthon 2024 organized by Nerdma, which sparked my deep interest in AI and Machine Learning. Let's build something amazing together!<br>
+Hi there! 👋 I'm currently diving into the world of Machine Learning, driven by a passion for all things AI. I'm eager to collaborate on any AI-related projects, so feel free to reach out if you're working on something exciting!!<br>
 
 
 ## 🌐 Socials:
